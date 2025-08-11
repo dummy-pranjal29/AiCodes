@@ -4,6 +4,8 @@
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
-    "dotenv": "^17.2.1"
+    "dotenv": "^17.2.1",
+    "prismjs": "^1.30.0",
+    "react-simple-code-editor": "^0.14.1"
   }
 }
